@@ -1,0 +1,51 @@
+﻿Build started 29/04/2019 21:47:07.
+     1>Project "C:\Users\yuanh\Desktop\Individual-Computing-Project\排行榜程序\个人作业游戏有排行榜\Win32Project4\Win32Project4.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Bullet.cpp camera.cpp ErrorLogger.cpp Explosion.cpp gamecode.cpp GameObject.cpp gametimer.cpp Level.cpp mydrawengine.cpp myinputs.cpp mysoundengine.cpp ObjectManager.cpp Rock.cpp Shapes.cpp spaceship.cpp vector2D.cpp wincode.cpp
+         wincode.cpp
+         vector2D.cpp
+         spaceship.cpp
+         Shapes.cpp
+         Rock.cpp
+     1>c:\users\yuanh\desktop\individual-computing-project\排行榜程序\个人作业游戏有排行榜\win32project4\rock.cpp(25): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+         ObjectManager.cpp
+         mysoundengine.cpp
+         myinputs.cpp
+         mydrawengine.cpp
+         Level.cpp
+         gametimer.cpp
+         GameObject.cpp
+         gamecode.cpp
+         Explosion.cpp
+     1>c:\users\yuanh\desktop\individual-computing-project\排行榜程序\个人作业游戏有排行榜\win32project4\explosion.cpp(42): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         ErrorLogger.cpp
+         camera.cpp
+         Bullet.cpp
+     1>c:\users\yuanh\desktop\individual-computing-project\排行榜程序\个人作业游戏有排行榜\win32project4\bullet.cpp(10): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\yuanh\desktop\individual-computing-project\排行榜程序\个人作业游戏有排行榜\win32project4\bullet.cpp(25): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         Generating Code...
+     1>c:\users\yuanh\desktop\individual-computing-project\排行榜程序\个人作业游戏有排行榜\win32project4\gamecode.cpp(893): warning C4715: 'Game::readScore' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\yuanh\Desktop\Individual-Computing-Project\排行榜程序\个人作业游戏有排行榜\Debug\Win32Project4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\yuanh\Desktop\Individual-Computing-Project\排行榜程序\个人作业游戏有排行榜\Debug\Win32Project4.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\yuanh\Desktop\Individual-Computing-Project\排行榜程序\个人作业游戏有排行榜\Debug\Win32Project4.lib" /MACHINE:X86 Debug\Bullet.obj
+         Debug\camera.obj
+         Debug\ErrorLogger.obj
+         Debug\Explosion.obj
+         Debug\gamecode.obj
+         Debug\GameObject.obj
+         Debug\gametimer.obj
+         Debug\Level.obj
+         Debug\mydrawengine.obj
+         Debug\myinputs.obj
+         Debug\mysoundengine.obj
+         Debug\ObjectManager.obj
+         Debug\Rock.obj
+         Debug\Shapes.obj
+         Debug\spaceship.obj
+         Debug\vector2D.obj
+         Debug\wincode.obj
+         Win32Project4.vcxproj -> C:\Users\yuanh\Desktop\Individual-Computing-Project\排行榜程序\个人作业游戏有排行榜\Debug\Win32Project4.exe
+     1>Done Building Project "C:\Users\yuanh\Desktop\Individual-Computing-Project\排行榜程序\个人作业游戏有排行榜\Win32Project4\Win32Project4.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:22.79

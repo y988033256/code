@@ -1,0 +1,11 @@
+haoming 	500 	4 	
+fandewei 	300 	8 	
+carl 	370 	13 	
+alexandru 	370 	1 	
+andy 	340 	2 	
+alex 	360 	2 	
+callum 	200 	1 	
+lewis 	250 	5 	
+nathaniel 	320 	3 	
+peter 	180 	1 	
+zhou 	200 	3 	
